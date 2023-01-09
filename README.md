@@ -10,7 +10,8 @@ src -> main -> java -> com-> newlecture-> web -> controller-> notice 폴더 밑�
 <br><br>
 
 1.설명<br>
-게시물의 MVC 패턴을 이용하여 CRUD가 어떻게 코드가 이뤄어져있는지 궁금하여 클론코딩한 페이지입니다.<br><br>
+- 개발도구 : Java, oracleDB
+- 게시물의 MVC 패턴을 이용하여 CRUD가 어떻게 코드가 이뤄어져있는지 궁금하여 클론코딩한 페이지입니다.<br><br>
 
 
 2. 작동원리<br>
