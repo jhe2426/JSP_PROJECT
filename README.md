@@ -4,7 +4,7 @@
 
 실행 방법 :<br>
 관리자 게시물 리스트 페이지<br>
-src -> main -> java -> com-> newlecture-> web -> controller-> admin하위 폴더 밑에 있는 AdminListController를 실행하면 됩니다.<br>
+src -> main -> java -> com-> newlecture-> web -> controller-> admin 폴더 밑에 있는 AdminListController를 실행하면 됩니다.<br>
 사용자 게시물 리스트 페이지<br>
 src -> main -> java -> com-> newlecture-> web -> controller-> notice 폴더 밑에 있는 ListController를 실행하면 됩니다.<br>
 <br><br>
